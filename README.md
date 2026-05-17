@@ -40,11 +40,12 @@ Create the file Rose.txt
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
+<img width="453" height="92" alt="WhatsApp Image 2026-05-16 at 2 53 17 PM (3)" src="https://github.com/user-attachments/assets/03658c96-6b28-4d62-939e-e44644a9bb8c" />
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-<img width="881" height="187" alt="image" src="https://github.com/user-attachments/assets/f1c255fc-26b7-4ca5-8695-a9c881f9fbfb" />
+<img width="459" height="104" alt="WhatsApp Image 2026-05-16 at 2 53 17 PM (4)" src="https://github.com/user-attachments/assets/a2b3e6d8-d469-4501-95ff-bf87d86673e9" />
 
 Remove the file hello1.txt
 
@@ -135,6 +136,7 @@ pause
 
 ## OUTPUT
 <img width="394" height="89" alt="WhatsApp Image 2026-05-16 at 2 53 18 PM" src="https://github.com/user-attachments/assets/bbef36ae-6877-4b19-bf4a-dcdddecdb230" />
+
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
