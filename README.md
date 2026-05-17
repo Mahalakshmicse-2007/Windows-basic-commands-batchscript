@@ -35,12 +35,11 @@ Remove the directory "my-folder"
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-<img width="365" height="87" alt="WhatsApp Image 2026-05-16 at 2 53 17 PM (2)" src="https://github.com/user-attachments/assets/9ff1136d-b710-469a-a78c-c0005f5292bc" />
+<img width="367" height="101" alt="WhatsApp Image 2026-05-16 at 2 53 17 PM (5)" src="https://github.com/user-attachments/assets/e57934f4-fc7b-4dc3-934a-c3d5ad65a3e8" />
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-<img width="367" height="101" alt="WhatsApp Image 2026-05-16 at 2 53 17 PM (5)" src="https://github.com/user-attachments/assets/e57934f4-fc7b-4dc3-934a-c3d5ad65a3e8" />
 
 Copy the file hello.txt into the file hello1.txt
 
